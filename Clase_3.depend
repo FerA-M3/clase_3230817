@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503459357 source:c:\codeblocks\workplace lab y prog 1\clase_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
